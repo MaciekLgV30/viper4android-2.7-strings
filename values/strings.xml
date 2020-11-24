@@ -2,25 +2,25 @@
 <resources>
 
     <!--Bottom navigation and notification strings-->
-    <string name="device_unsupported">Unsupported</string>
-    <string name="device_headset">Headset</string>
-    <string name="device_speaker">Speaker</string>
+    <string name="device_unsupported">Nieobsługiwane</string>
+    <string name="device_headset">Słuchawki</string>
+    <string name="device_speaker">Głośnik</string>
     <string name="device_bt_a2dp">Bluetooth</string>
     <string name="device_usb_device">USB</string>
     <string name="notification_channel_name">ViPER4Android service</string>
     <string name="notification_content_title">Processing (%s)</string>
-    <string name="notification_content_text">Tap for more options.</string>
-    <string name="showcase_title">Opening presets menu</string>
+    <string name="notification_content_text">Kliknij po więcej opcji.</string>
+    <string name="showcase_title">Otwieranie menu z ustawieniami</string>
     <string name="showcase_description">Tap the selected device to open the menu</string>
 
     <!--Dialogs-->
-    <string name="dialog_install_driver">No driver found</string>
-    <string name="dialog_driver_not_found">Do you wish to install the driver now?
-        \nCaution: Your device will reboot automatically. Make sure your session is saved</string>
-    <string name="dialog_installation_failed">Installation failed at %s</string>
+    <string name="dialog_install_driver">Nie znaleziono sterowników</string>
+    <string name="dialog_driver_not_found">Czy chcesz zainstalować sterowniki?
+        \nCaution: Twoje urządzenie uruchomi się ponownie. Sprawdź czy zapisałeś zmiany</string>
+    <string name="dialog_installation_failed">Instalacja zakoñczona niepowodzeniem w %s</string>
     <string name="dialog_no_root_access">obtaining root access</string>
     <string name="dialog_cpu_not_supported">filtering supported CPU architectures</string>
-    <string name="installer_status_rebooting">Rebooting…</string>
+    <string name="installer_status_rebooting">Ponowne uruchamianie…</string>
 
     <!--Presets-->
     <string name="load">Load</string>
